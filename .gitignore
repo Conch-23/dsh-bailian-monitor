@@ -1,0 +1,13 @@
+node_modules/
+coverage/
+*.tgz
+*.log
+.env
+.env.*
+!.env.example
+.credentials.yaml
+*.credentials.*
+*credentials*.json
+*.local.*
+.DS_Store
+Thumbs.db
